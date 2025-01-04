@@ -64,5 +64,15 @@ CTEs are used for:
 - Pinpointed the most profitable sub-categories.  
 
 This approach combines the power of Python for data processing and MySQL for structured querying, delivering a scalable and efficient analysis workflow.  
+## 🧑‍💻 Author
+- Your Name
+- [GitHub Profile](https://github.com/abhishekbhardwaj-analyst)
+- [LinkedIn Profile](https://linkedin.com/in/ds-abhishek)  
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 📬 Contact
+For questions or feedback, feel free to reach out at abhi.bhardwaj96@gmail.com.
 
 ---
