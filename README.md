@@ -65,7 +65,7 @@ CTEs are used for:
 
 This approach combines the power of Python for data processing and MySQL for structured querying, delivering a scalable and efficient analysis workflow.  
 ## 🧑‍💻 Author
-- Your Name
+- Abhishek Bhardwaj
 - [GitHub Profile](https://github.com/abhishekbhardwaj-analyst)
 - [LinkedIn Profile](https://linkedin.com/in/ds-abhishek)  
 
